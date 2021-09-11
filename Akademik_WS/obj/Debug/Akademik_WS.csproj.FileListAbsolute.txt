@@ -1,0 +1,10 @@
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Akademik_WS\Akademik_WS\bin\Akademik_WS.dll
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Akademik_WS\Akademik_WS\bin\Akademik_WS.pdb
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Akademik_WS\Akademik_WS\obj\Debug\Akademik_WS.dll
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Akademik_WS\Akademik_WS\obj\Debug\Akademik_WS.pdb
+C:\Users\ACER\documents\visual studio 2010\Projects\Akademik_WS\Akademik_WS\obj\Debug\Akademik_WS.csprojResolveAssemblyReference.cache
+D:\Fadori folder\Kuliah\Semester 5\Sistem Terdistribusi\C# Program\Akademik_WS\Akademik_WS\bin\Akademik_WS.dll
+D:\Fadori folder\Kuliah\Semester 5\Sistem Terdistribusi\C# Program\Akademik_WS\Akademik_WS\bin\Akademik_WS.pdb
+D:\Fadori folder\Kuliah\Semester 5\Sistem Terdistribusi\C# Program\Akademik_WS\Akademik_WS\obj\Debug\Akademik_WS.csprojResolveAssemblyReference.cache
+D:\Fadori folder\Kuliah\Semester 5\Sistem Terdistribusi\C# Program\Akademik_WS\Akademik_WS\obj\Debug\Akademik_WS.dll
+D:\Fadori folder\Kuliah\Semester 5\Sistem Terdistribusi\C# Program\Akademik_WS\Akademik_WS\obj\Debug\Akademik_WS.pdb
